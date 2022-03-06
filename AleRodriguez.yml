@@ -1,0 +1,74 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+
+    first_name: Alejandro 
+    last_name: Rodríguez Gabarrón
+    
+    
+    motto: Dedication, learning, active, sharing
+    
+    
+    focus: Learning everything I can about programming. 
+    
+    
+    summary: Naval engineer and project manager looking for a new oportunity as a programmer.
+
+    email: Alex.gabarron84@gmail.com
+    # phone: +43 689157685
+    
+    linkedin: https://www.linkedin.com/in/alejandro-rodriguez-74427780/
+    
+    
+    github: Thelgaris
+    
+    twitter: 
+    
+
+    
+    languages:
+      - idiom: Spanish
+        level: Native
+      - idiom: Catalan
+        level: Native
+      - idiom: English
+        level: Full proficiency
+
+    
+    interests:
+      - item: Kite surf
+
+      - item: Health & wellness
+
+      - item: Camper life
+
+
+
+# education:
+#     - degree: Graduado en Ingeniería Naval
+#       university: UPC - Facultad de Náutica 
+#       - Master's degree: Dirección y gestión de proyectos
+#       university: Universitat Ramón Llull - La Salle 
+
+
+experiences:
+    - role: Project Manager 
+      time: 2016 - Present
+      company: Marina Barcelona 92
+    
+      # details: |
+      #     - Yacht refit and repair project management.
+     
+# # Your project portfolio
+# projects:
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+# skills:
+#     toolset:
+#       - name: HTML5 & CSS
+#         level: 20%
